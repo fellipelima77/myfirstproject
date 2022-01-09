@@ -1,0 +1,107 @@
+* {
+    
+    font-family: 'Nunito', sans-serif;  
+    font-family: 'Roboto', sans-serif;
+    
+    
+
+}
+
+form{
+    color: red;
+}
+
+div {
+    border: 2px solid red;
+    padding: 10px;
+    
+}
+
+legend {
+    font-size: 30px;
+    display: block;
+}
+
+label {
+    display: block;
+    color: white;
+}
+
+input {
+    margin: 10px;
+    color: red;
+    border-color: red;
+    background: rgb(134,34,34);
+background: linear-gradient(0deg, rgba(134,34,34,1) 0%, rgba(62,55,55,0.7567401960784313) 100%);
+
+
+}
+
+h1 {
+    margin: 10px;
+    color: #00BFFF;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid red;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1s;
+  }
+  
+  .button1:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1s;
+    transform: scale(1.1);
+    transition: all 0.5s;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid red;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1s;
+  }
+  
+  .button2:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1s;
+    transform: scale(1.1);
+    transition: all 0.5s;
+  }
+  
+textarea {
+    border-color: red;
+    background-color: cornsilk;
+}
+
+div2 {
+    display: block;
+}
+
+body {background: rgb(2,0,36);
+    background: linear-gradient(197deg, rgba(2,0,36,1) 0%, rgba(156,12,90,1) 45%, rgba(0,212,255,1) 100%);
+}
